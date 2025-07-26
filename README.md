@@ -99,10 +99,3 @@ The dataset was provided as part of the **Data Science Lab Summer Call 2025**. D
 
 ---
 
-## How to Run
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/yourusername/real-estate-price-prediction.git
-cd real-estate-price-prediction
