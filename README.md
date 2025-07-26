@@ -79,13 +79,15 @@ The pipeline is composed of 3 main stages:
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure
 
 | File | Description |
 |------|-------------|
-| `DSLproject334258.ipynb` | Jupyter notebook with the full implementation pipeline |
-| `Report334258.pdf` | Full technical report explaining methodology, modeling, results and discussion |
-| `Data_Science_Lab__Project_Assignment_Summer_2025-3 (1).pdf` | Official project assignment with dataset sources and requirements |
+| [`DSLproject334258.ipynb`](./DSLproject334258.ipynb) | Jupyter notebook with the full implementation pipeline |
+| [`Report334258.pdf`](./Report334258.pdf) | Full technical report explaining methodology, modeling, results and discussion |
+| [`Data_Science_Lab__Project_Assignment_Summer_2025-3 (1).pdf`](./Data_Science_Lab__Project_Assignment_Summer_2025-3%20(1).pdf) | Official project assignment with dataset sources and requirements |
+| [`README.md`](./README.md) | This documentation file you're reading now |
+
 
 ---
 
@@ -93,7 +95,7 @@ The pipeline is composed of 3 main stages:
 
 The dataset was provided as part of the **Data Science Lab Summer Call 2025**. Dataset download links and description are available in:
 
-📄 `Data_Science_Lab__Project_Assignment_Summer_2025-3 (1).pdf`
+📄 `Data_Science_Lab__Project_Assignment_Summer_2025-3 (1).pdf`(./Data_Science_Lab__Project_Assignment_Summer_2025-3%20(1).pdf)
 
 ---
 
