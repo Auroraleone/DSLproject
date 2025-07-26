@@ -95,7 +95,7 @@ The pipeline is composed of 3 main stages:
 
 The dataset was provided as part of the **Data Science Lab Summer Call 2025**. Dataset download links and description are available in:
 
-📄 `Data_Science_Lab__Project_Assignment_Summer_2025-3 (1).pdf`(./Data_Science_Lab__Project_Assignment_Summer_2025-3%20(1).pdf)
+📄 [`Data_Science_Lab__Project_Assignment_Summer_2025-3 (1).pdf`](./Data_Science_Lab__Project_Assignment_Summer_2025-3%20(1).pdf)
 
 ---
 
